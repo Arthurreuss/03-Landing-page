@@ -1,0 +1,23 @@
+.container {
+  margin: 30px 30px;
+  text-align: center;
+
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  height: 150px;
+  background-color: rgb(119, 82, 46);
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.footer a {
+  padding: 10px;
+  font-size: 30px;
+  color: white;
+}
